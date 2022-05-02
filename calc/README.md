@@ -1,5 +1,5 @@
 # This is simple calculator app build on React
-![calculator](https://github.com/bibekbaniya2021/CalculateWithReactJS/calc/blob/main/calc.png)
+![calculator](https://github.com/bibekbaniya2021/CalculatorWithReactJS/blob/main/calc/calc.png)
 
 # Getting Started with Create React App
 
